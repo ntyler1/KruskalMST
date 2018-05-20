@@ -1,6 +1,6 @@
 # Project Description
 
-> Java Program uses [Kruskal’s algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) that finds a [minimum spanning tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree) (MST) of an undirected weighted graph.
+> Java Program that uses [Kruskal’s algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) that finds a [minimum spanning tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree) (MST) of an undirected weighted graph.
 
 # Project Features
 
